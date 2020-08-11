@@ -1,0 +1,3 @@
+[submodule "blender-rigidbody-exporter"]
+	path = blender-rigidbody-exporter
+	url = https://github.com/bartteunis/blender-rigidbody-exporter.git
